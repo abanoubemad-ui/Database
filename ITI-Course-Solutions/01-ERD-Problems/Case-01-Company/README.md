@@ -15,7 +15,7 @@ A big company has decided to store information about its projects and employees 
 
 ---
 
-## 📊 Entity-Relationship Diagram (ERD)`
+## 📊 Entity-Relationship Diagram (ERD)
 
 The structured architectural visualization mapping out the technical design rules of the case study:
 
